@@ -1,0 +1,10 @@
+bin
+gen
+obj
+.DS_Store
+*.o
+*.o.d
+*.te
+lint.xml
+proguard
+/.classpath
